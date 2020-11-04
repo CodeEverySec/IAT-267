@@ -6,7 +6,7 @@ SolaceLiving is an idea that tackles a small, simple every-day situation of stum
 Project Overview:
 This assignment was created with Processing, Arduino, various electrical circuit components, and many sensors. The model is designed to emulate a unique one-room apartment with a loft and ceiling windows that are openly exposed to the sky.
 
-Project Collbration:
+Project Collaboration:
 This project is the collaborative work of Simon Fraser University students Andy Guan, David Dai, Frank Wen, and Wesley Liu, created for the course "Introduction to Technological Systems" under the School of Interactive Arts and Technology.
 
 My Role:
