@@ -10,6 +10,6 @@ Project Collaboration:
 This project is the collaborative work of Simon Fraser University students Andy Guan, David Dai, Frank Wen, and Wesley Liu, created for the course "Introduction to Technological Systems" under the School of Interactive Arts and Technology.
 
 My Role:
-As the only programmer in the team, I did all the programming for both Arduino and Processing, and I also assisted Andy to build the circuit. 
+As the only programmer in the team, I did all the programming works for both Arduino and Processing, and I also assisted Andy to build the circuit. 
 
 YouTube link: https://youtu.be/kAY0pdw_Fb0
